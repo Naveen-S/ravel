@@ -1,2 +1,2 @@
 # ravel
-Have possible solving ravelled(jumble/scrambled) words, unravel using ravel.
+Have problem solving ravelled(jumble/scrambled) words, unravel using ravel.
